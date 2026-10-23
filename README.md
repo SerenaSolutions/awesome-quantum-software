@@ -91,6 +91,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 
 **Silq**
 - [Silq](https://silq.ethz.ch/) - Silq is a high-level quantum programming language with safe uncomputation and intuitive semantics.
+- [ZEPHIRUM (ZYQL)](https://github.com/SerenaSolutions/zephirum-lang) - Lisp-style quantum programming language with a trivalent decision core (1/0/REFUSED), validated on IBM Heron hardware across 64-16384 shots with post-quantum sealed receipts (ML-DSA-44).
 
 ## Quantum simulators
 
